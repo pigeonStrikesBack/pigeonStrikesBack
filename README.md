@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in IT
 - [Quality Assurance - freeCodeCamp](https://freecodecamp.org/certification/YHLDev/quality-assurance-v7)
 - [Relational Database - freeCodeCamp](https://freecodecamp.org/certification/YHLDev/relational-database-v8)
 - [Back End Development & APIs - freeCodeCamp](https://freecodecamp.org/certification/YHLDev/back-end-development-and-apis)
-- [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/YHLDev/javascript-algorithms-and-data-structures-v8)
+- [JavaScript Algorithms and Data Structures - freeCodeCamp](https://freecodecamp.org/certification/YHLDev/javascript-algorithms-and-data-structures-v8)
 
 ## 📫 Connect with Me
 <!-- - 🌐 Portfolio: -->
