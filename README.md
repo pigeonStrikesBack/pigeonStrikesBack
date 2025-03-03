@@ -39,4 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in IT
   <!-- langs -->
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pigeonStrikesBack&layout=compact&langs_count=8&theme=aura" />
 </div>
+<div>
+  <img src="https://www.codewars.com/users/pigeonStrikesBack/badges/large" />
+</div>
 
