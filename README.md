@@ -26,7 +26,7 @@ I'm a passionate developer with an ICT background, constantly exploring new tech
 
 📌 _Feel free to explore my repositories and connect with me!_ 😊
 
-# Stats
+# 📊 Stats & Badges
 
 ## GitHub
 
