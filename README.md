@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in IT
 ## 🚀 About Me
 - 🎓 **High School Diploma** in Informatics from IISS Ettore Majorana, Martina Franca
 - 🌱 Currently learning **Godot Engine, gdscript, c#, design patterns, data structures and algorithms for game development**
-- 🔧 Skilled in **JavaScript, Node.js, React.js, HTML5, CSS, Bootstrap, Java, C, Git, Docker, Databases, and more!**
+- 🔧 Skilled in **JavaScript, Node.js, HTML5, CSS, C, Git, Docker, Databases, and more!**
 - 🏗 Interested in **Software Development, and 3D Modeling**
 
 ## 🏆 Certifications
@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in IT
 - [Back End Development & APIs - freeCodeCamp](https://freecodecamp.org/certification/YHLDev/back-end-development-and-apis)
 
 ## 📫 Connect with Me
-- 🌐 Portfolio: [TO-DO](#)
+<!-- - 🌐 Portfolio: -->
 - 💼 LinkedIn: [Mauro De Rosa](https://www.linkedin.com/in/mauroderosa-dev/)
-- 📧 Email: [dev.mauro.derosa@gmail.com](mailto:dev.mauro.derosa@gmail.com)
+<!-- - 📧 Email: -->
 
 ## ⚡ Fun Facts
 - 🎨 I love **design and 3D modeling** (Blender & Inkscape)
@@ -27,4 +27,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in IT
 - 🚀 Always up for learning **new technologies** and **improving workflows**
 
 ---
+
 📌 _Feel free to explore my repositories and connect with me!_ 😊
+
+---
+
+<div>
+  <!-- stats -->
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pigeonStrikesBack&theme=aura" />
+  <!-- langs -->
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pigeonStrikesBack&layout=compact&langs_count=8&theme=aura" />
+</div>
+
