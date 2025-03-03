@@ -1,4 +1,4 @@
-# Hello there! I'm your chaotic neighborhood pigeon 🥚
+# 🥚 Hi! I'm your chaotic neighborhood pigeon
 
 I'm a passionate developer with an ICT background, constantly exploring new technologies and improving my skills.
 
