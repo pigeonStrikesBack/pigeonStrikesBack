@@ -17,11 +17,6 @@ I'm a passionate developer with an ICT background, constantly exploring new tech
 - [Back End Development & APIs - freeCodeCamp](https://freecodecamp.org/certification/YHLDev/back-end-development-and-apis)
 - [JavaScript Algorithms and Data Structures - freeCodeCamp](https://freecodecamp.org/certification/YHLDev/javascript-algorithms-and-data-structures-v8)
 
-## 📫 Connect with Me
-<!-- - 🌐 Portfolio: -->
-- 💼 LinkedIn: [Mauro De Rosa](https://www.linkedin.com/in/mauroderosa-dev/)
-<!-- - 📧 Email: -->
-
 ## ⚡ Fun Facts
 - 🎨 I love **design and 3D modeling** (Blender & Inkscape)
 - 🎮 Passionate about **gaming and game development**
