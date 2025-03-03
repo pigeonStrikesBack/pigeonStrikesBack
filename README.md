@@ -17,14 +17,10 @@ I'm a passionate developer with an ICT background, constantly exploring new tech
 - [Back End Development & APIs - freeCodeCamp](https://freecodecamp.org/certification/YHLDev/back-end-development-and-apis)
 - [JavaScript Algorithms and Data Structures - freeCodeCamp](https://freecodecamp.org/certification/YHLDev/javascript-algorithms-and-data-structures-v8)
 
-## ⚡ Fun Facts
+## ⚡ Not so fun facts
 - 🎨 I love **design and 3D modeling** (Blender & Inkscape)
 - 🎮 Passionate about **gaming and game development**
 - 🚀 Always up for learning **new technologies** and **improving workflows**
-
----
-
-📌 _Feel free to explore my repositories and connect with me!_ 😊
 
 # 📊 Stats & Badges
 
@@ -45,3 +41,6 @@ I'm a passionate developer with an ICT background, constantly exploring new tech
   </a>
 </div>
 
+---
+
+📌 _Feel free to explore my repositories and connect with me!_ 😊
