@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Mauro De Rosa
+# Hello there! I'm your chaothic neighborhood pigeon 🥚
 
-Welcome to my GitHub profile! I'm a passionate developer with a background in IT, constantly exploring new technologies and improving my skills.
+I'm a passionate developer with an ICT background, constantly exploring new technologies and improving my skills.
 
 ## 🚀 About Me
 - 🎓 **High School Diploma** in Informatics from IISS Ettore Majorana, Martina Franca
@@ -31,7 +31,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in IT
 
 📌 _Feel free to explore my repositories and connect with me!_ 😊
 
----
+# Stats
+
+## GitHub
 
 <div>
   <!-- stats -->
@@ -39,7 +41,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a background in IT
   <!-- langs -->
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pigeonStrikesBack&layout=compact&langs_count=8&theme=aura" />
 </div>
+
+## CodeWars
+
 <div>
-  <img src="https://www.codewars.com/users/pigeonStrikesBack/badges/large" />
+  <a href="https://www.codewars.com/users/pigeonStrikesBack" alt="CodeWars Profile" target="_blank" >
+    <img src="https://www.codewars.com/users/pigeonStrikesBack/badges/large" alt= "CodeWars Badge Image" />
+  </a>
 </div>
 
